@@ -2,7 +2,7 @@
 
 ### Hi there I'm Pascal 🐼
 
-- Website https://www.pandermatt.ch/
+- Website https://pandermatt.ch/
 
 Code made with ❤️ by [pandermatt](https://github.com/pandermatt)
 
