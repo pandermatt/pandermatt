@@ -1,10 +1,10 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=pandermatt&show_icons=true&hide_border=true">
+### Welcome
 
-### Hi there I'm Pascal 🐼
+Hello, my name is Pascal Severin Andermatt, and I am a 25 y/o student currently pursuing my Master in Artificial Intelligence at the University of Zurich 🧑🏼‍🎓
 
 - Website https://pandermatt.ch/
 
-Code made with ❤️ by [pandermatt](https://github.com/pandermatt)
+Code made with ❤️ by [Pascal](https://github.com/pandermatt)
 
 
 <!--
