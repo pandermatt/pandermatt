@@ -1,25 +1,10 @@
 ### 👨‍💻 About me
 
-Hello, my name is Pascal Severin Andermatt, and I am a 25 y/o student currently pursuing my Master in Artificial Intelligence at the University of Zurich 🧑🏼‍🎓
+Hi, I'm Pascal Severin Andermatt, a PhD student in Artificial Intelligence at the University of Zurich 🧑🏼‍🎓  
+My research focuses on AI for rare disease diagnosis, combining ontologies, machine learning, and clinical data @RareSim 🧬
 
-**Check out my website: https://pandermatt.ch/**
+🌐 Website: https://pandermatt.ch/  
+🏫 UZH IFI Profile: https://www.ifi.uzh.ch/en/ddis/people/pandermatt.html  
+🧬 Project: https://raresim.ch/
 
 Code made with ❤️ by [Pascal](https://github.com/pandermatt)
-
-
-<!--
-**pandermatt/pandermatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
