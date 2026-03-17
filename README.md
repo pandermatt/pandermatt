@@ -7,4 +7,4 @@ My research focuses on AI for rare disease diagnosis, combining ontologies, mach
 🏫 UZH IFI Profile: https://www.ifi.uzh.ch/en/ddis/people/pandermatt.html  
 🧬 Project: https://raresim.ch/
 
-Code made with ❤️ by [Pascal](https://github.com/pandermatt)
+Code made with ❤️ in 🇨🇭
